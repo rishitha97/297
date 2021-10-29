@@ -1,4 +1,4 @@
-Datasets used for tasks
+Tasks performed are
 
  NLP task- IMDB sentiment analysis
  
