@@ -1,0 +1,5 @@
+medium article -- https://medium.com/@bandirishitha02/recovering-the-3d-shape-of-an-object-from-2d-images-aedbf4f56c26
+
+video - 
+
+ppt- https://docs.google.com/presentation/d/1F4G_UWFbGvD2ujWrjJpytbOpdFL6hvwwIWX8sXE5gHo/edit?usp=sharing
